@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pak Wheels</string>
+
+    <string-array name="cities">
+        <item>Select city</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Rawalpindi</item>
+        <item>Karachi</item>
+    </string-array>
+
+</resources>
